@@ -1,2 +1,6 @@
-# Curso-Logica-de-Programação
-Udemy Curso Completo de Algoritmos e Lógica de Programação Prof. Dr. Nelio Alves
+# Meu Inicio
+```
+Curso Completo de Algoritmos e Lógica de Programação 
+Udemy e CursoEmVideo
+Prof. Dr. Nelio Alves e Prof. Dr. Gustavo Guanabara
+```
