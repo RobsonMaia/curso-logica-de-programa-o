@@ -1,4 +1,3 @@
-package visualg.NelioAlves;
 Algoritmo "teste vetor soma vetor"
 
 

@@ -1,4 +1,3 @@
-package visualg.NelioAlves;
 Algoritmo "numeros pares"
 
 
