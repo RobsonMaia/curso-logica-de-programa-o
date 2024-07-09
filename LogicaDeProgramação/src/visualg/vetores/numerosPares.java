@@ -1,4 +1,3 @@
-package visualg.vetores;
 Algoritmo "numeros pares"
 
 

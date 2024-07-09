@@ -1,4 +1,3 @@
-
 algoritmo "SELETOR"
 var
    I, C, i18, i25: Inteiro
