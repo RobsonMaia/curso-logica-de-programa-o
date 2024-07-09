@@ -1,4 +1,4 @@
-package visualg.NelioAlves.vetores;
+package visualg.NelioAlves;
 Algoritmo "Problema alturas"
 
 
