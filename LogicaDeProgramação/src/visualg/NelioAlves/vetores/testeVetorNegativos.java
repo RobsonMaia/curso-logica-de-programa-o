@@ -1,3 +1,4 @@
+package visualg.NelioAlves.vetores;
 Algoritmo "teste vetor negativos"
 
 
