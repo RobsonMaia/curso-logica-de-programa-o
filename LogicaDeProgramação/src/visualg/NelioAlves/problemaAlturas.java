@@ -15,7 +15,7 @@ Inicio
 
        para i de 0 ate N-1 faca
             escreval("Dados da", i + 1,"ª pessoa:" )
-            esceval("NOME: ")
+            escreval("NOME: ")
             leia (nomes[i])
             escreval("IDADE: ")
             leia(idades[i])
@@ -25,7 +25,7 @@ Inicio
        
        soma <- 0
        para i de 0 ate N-1 faca
-            soma <- soma + altura[i]
+            soma <- soma + alturas[i]
        fimpara
        
        media <- soma / N
