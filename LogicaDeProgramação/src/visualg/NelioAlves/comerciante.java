@@ -48,13 +48,12 @@ Inicio
             totalV <- totalV + PrecoVenda[i]
        fimpara
 
-       lucroT <-0
        lucroT <- totalV - totalC
        
        escreval("RELATORIO:")
-       escreval("Lucro abaixo de 10%:", LucroAbaixo:4:2)
-       escreval("Lucro entre 10% e 20%:", LucroEntre:4:2)
-       escreval("Lucro acima de 20%:", LucroAcima:4:2)
+       escreval("Lucro abaixo de 10%:", LucroAbaixo)
+       escreval("Lucro entre 10% e 20%:", LucroEntre)
+       escreval("Lucro acima de 20%:", LucroAcima)
        escreval("Valor total de compra:", totalC:4:2)
        escreval("Valor total de venda:", totalV:4:2)
        escreval("Lucro total:", lucroT:4:2)
