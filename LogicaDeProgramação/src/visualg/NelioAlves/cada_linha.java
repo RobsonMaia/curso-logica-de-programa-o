@@ -30,7 +30,7 @@ inicio
       
       para i de 0 ate N-1 faca
            maior <- M[i,0]
-           para  j de 0 ate N-1 faca
+           para  j de 1 ate N-1 faca
               se maior < M[i,j] entao
                  maior <- M[i, j]
               fimse
